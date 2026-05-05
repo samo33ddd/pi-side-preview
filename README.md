@@ -33,7 +33,7 @@ pi install git:github.com/samo33ddd/pi-side-preview
 With a pinned tag or branch:
 
 ```bash
-pi install git:github.com/samo33ddd/pi-side-preview@v0.1.0
+pi install git:github.com/samo33ddd/pi-side-preview@v0.1.1
 ```
 
 From a local checkout:

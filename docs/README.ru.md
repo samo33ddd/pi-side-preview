@@ -33,7 +33,7 @@ pi install git:github.com/samo33ddd/pi-side-preview
 С привязкой к тегу или ветке:
 
 ```bash
-pi install git:github.com/samo33ddd/pi-side-preview@v0.1.0
+pi install git:github.com/samo33ddd/pi-side-preview@v0.1.1
 ```
 
 Из локальной папки:
